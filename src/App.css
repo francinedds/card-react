@@ -1,0 +1,21 @@
+@import "tailwindcss";
+@font-face {
+  font-family: 'Pecita';
+  src: url('src/assets/Pecita.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.card{
+  display: flex;
+  position: relative;
+  justify-content: center; 
+  align-items: center;     
+  height: 100vh;           
+}

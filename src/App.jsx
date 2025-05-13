@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './App.css'
 import { FaGithub, FaLinkedinIn, FaInstagram } from 'react-icons/fa';
-import bg from './assets/bg.jpg';
+import bg from '/assets/bg.jpg';
 
 function App() {
     const [style, setStyle] = useState({});

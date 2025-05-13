@@ -1,7 +1,7 @@
 @import "tailwindcss";
 @font-face {
   font-family: 'Pecita';
-  src: url('src/assets/Pecita.otf') format('truetype');
+  src: url('./assets/Pecita.otf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
